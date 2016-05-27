@@ -1,0 +1,21 @@
+{
+  "name": "ecc-web-sig",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "minimalistic-assert": "^1.0.0"
+  },
+  "devDependencies": {
+    "tape": "^4.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:calvinmetcalf/ecc-web-sig.git"
+  }
+}
